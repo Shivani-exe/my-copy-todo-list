@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.webpack
+.serverless
+.idea/
+.env
+
+# Local Netlify folder
+.netlify
